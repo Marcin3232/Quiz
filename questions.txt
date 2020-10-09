@@ -1,0 +1,50 @@
+﻿Jaka jest poprawna składnia wrowadzania "Hello World" w C#?
+Console.WriteLine("Hello World");
+print("Hello World");
+Log.print("Hello World");
+A
+Jak wstawiać komentarze w kodzie C#?
+/*
+//
+#
+B
+Który operator służy do dodawania dwóch wartości?
++
+*
+/
+A
+Który operator służy do porównywania dwóch wartości?
+<>
+=
+==
+C
+Aby zadeklarować tablicę w C #, zdefiniowanie typu zmiennej można za pomocą:
+||
+{}
+[]
+C
+Jak się tworzy metody w C#?
+MyMethod()
+MyMethod
+myMethod{}
+A
+Który operator służy do mnożenia?
+#
+%
+*
+C
+Który modyfikator dostępu sprawia, że ​​kod jest dostępny tylko w ramach tej samej klasy?
+public
+private
+final
+B
+Jak zaczyna się pisać pętle if w C#
+if x>y then:
+if=>x>y
+if(x>y)
+C
+Która instrukcja do zatrzymania pętli?
+exit
+break
+continue
+B
